@@ -13,7 +13,7 @@ body {
   padding: 50px 0;
   margin: 0;
   font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #555555;
+  color: rgba(85,85,85,0.00);
   font-weight: 300;
   background: url('../img/fond.png') no-repeat center center;
   background-size: cover;
